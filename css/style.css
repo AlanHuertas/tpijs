@@ -1,0 +1,27 @@
+.textoOpaco {
+    color: lightgray;
+    font-size: .7rem;
+}
+
+.total {
+    background-color: lightblue;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    padding: .8rem;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.categorias {
+    height: 35vh;
+}
+
+.trainee {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.navbar-brand {
+    color: white !important;
+}
+
